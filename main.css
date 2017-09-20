@@ -9,10 +9,9 @@ body {
    font: italic 200% courier;
   }
 
-p {
+  p {
  padding: 20px;
- color: #40b0b5;
+ color: #33a8ff;
  text-align: center;
  border: 3px dotted #ff008d;
 }
-  
