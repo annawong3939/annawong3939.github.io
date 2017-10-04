@@ -4,14 +4,14 @@ body {
   }
 
   h1 {
-   color: #e6d7f2;
+   color: #40b0b5;
    text-align: center;
    font: italic 200% courier;
   }
 
   p {
     padding: 20px;
-    color: #40b0b5;
+    color: #e6d7f2;
     text-align: center;
     border: 3px dotted #ff008d;
   }
